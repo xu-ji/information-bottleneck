@@ -1,12 +1,12 @@
 import argparse
-from v3.util.data import basic_data_instance
-from v3.util.general import set_seed, device, evaluate, clean, get_weight_norms, compute_factors_binning
-from v3.util.swag import *
-from v3.util.model import BasicMLP
+from toy.util.data import basic_data_instance
+from toy.util.general import set_seed, device, evaluate, clean, get_weight_norms, compute_factors_binning
+from toy.util.swag import *
+from toy.util.model import BasicMLP
 import torch
 import os
 from datetime import datetime
-from v2.swag_repo.MI.util import to_bits, create_dataframe
+from dnn.swag_repo.MI.util import to_bits, create_dataframe
 import seaborn as sns
 
 import matplotlib

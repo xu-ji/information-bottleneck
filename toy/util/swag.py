@@ -7,11 +7,11 @@ from collections import defaultdict
 from collections import OrderedDict
 import sys
 import os
-from v3.util.general import analyse, est_MI, est_MI_cond, evaluate, device, est_MI_binning, est_MI_binning_cond
-from v3.util.model import StochasticMLP, StochasticConvMLP, BasicMLP
+from toy.util.general import analyse, est_MI, est_MI_cond, evaluate, device, est_MI_binning, est_MI_binning_cond
+from toy.util.model import StochasticMLP, StochasticConvMLP, BasicMLP
 
-from v2.swag_repo.swag.posteriors.swag import SWAG
-from v2.swag_repo.swag.utils import eval as swag_eval
+from dnn.swag_repo.swag.posteriors.swag import SWAG
+from dnn.swag_repo.swag.utils import eval as swag_eval
 #from v2.swag_repo.swag.losses import cross_entropy as swag_cross_entropy
 import traceback
 

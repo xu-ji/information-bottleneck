@@ -5,7 +5,7 @@ import numpy as np
 from torch.utils.data import TensorDataset
 
 import os
-from v3.util.general import set_seed
+from toy.util.general import set_seed
 import pandas as pd
 import seaborn as sns
 import sys

@@ -1,7 +1,7 @@
 from torch import nn
 import torch
 import numpy as np
-from v2.swag_repo.swag.models.preresnet import add_tag
+from dnn.swag_repo.swag.models.preresnet import add_tag
 
 DETACH = False
 EPS = 1e-10

@@ -1,12 +1,12 @@
 import argparse
-from v3.util.data import basic_data_instance_MNIST
-from v3.util.general import set_seed, device, evaluate, clean, clean_rev, get_weight_norms, compute_factors
-from v3.util.swag import *
-from v3.util.model import StochasticConvMLP
+from toy.util.data import basic_data_instance_MNIST
+from toy.util.general import set_seed, device, evaluate, clean, clean_rev, get_weight_norms, compute_factors
+from toy.util.swag import *
+from toy.util.model import StochasticConvMLP
 import torch
 import os
 from datetime import datetime
-from v2.swag_repo.MI.util import to_bits, create_dataframe
+from dnn.swag_repo.MI.util import to_bits, create_dataframe
 import seaborn as sns
 
 import sys
