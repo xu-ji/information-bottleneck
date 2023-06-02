@@ -2,6 +2,10 @@
 
 This repository contains code for the ICML 2023 paper: [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/abs/2305.18887)
 
+<p align="center">
+    <img src="toy/cartoon.PNG" width=50% height=50%>
+</p>
+
 ## Requirements
 
 The code used Python 3.6.9 and PyTorch 1.10.1. A full list of environmental dependencies is given in `requirements.txt`.
