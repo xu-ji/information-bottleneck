@@ -6,6 +6,8 @@ This repository contains code for the ICML 2023 paper: [How Does Information Bot
     <img src="toy/cartoon.PNG" width=50% height=50%>
 </p>
 
+In this paper, we provide the first rigorous learning theory for justifying the benefit of information bottleneck in deep learning by mathematically relating information bottleneck to generalization errors. We investigate the merit of our new mathematical findings with experiments across a range of architectures and learning settings. In many cases, generalization errors are shown to correlate with the degree of information bottleneck: i.e., the amount of the unnecessary information at hidden layers.
+
 ## Requirements
 
 The code used Python 3.6.9 and PyTorch 1.10.1. A full list of environmental dependencies is given in `requirements.txt`.
