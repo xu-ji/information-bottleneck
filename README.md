@@ -3,7 +3,7 @@
 This repository contains code for the ICML 2023 paper: [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/abs/2305.18887)
 
 <p align="center">
-    <img src="toy/cartoon.PNG" width=50% height=50%>
+    <img src="toy/cartoon.png" width=50% height=50%>
 </p>
 
 In this paper, we provide the first rigorous learning theory for justifying the benefit of information bottleneck in deep learning by mathematically relating information bottleneck to generalization errors. We investigate the merit of our new mathematical findings with experiments across a range of architectures and learning settings. In many cases, generalization errors are shown to correlate with the degree of information bottleneck: i.e., the amount of the unnecessary information at hidden layers.
