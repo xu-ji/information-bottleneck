@@ -18,13 +18,14 @@ The scripts for running experiments are given by:
 - Binning: `toy/scripts/binning/main_swag_bin.py`
 
 ## Citation
-
+```
 @inproceedings{kenji2023infodl,
   title={How Does Information Bottleneck Help Deep Learning?},
   author={Kenji Kawaguchi and Zhun Deng and Xu Ji and Jiaoyang Huang},
   booktitle={International Conference on Machine Learning (ICML)},
   year={2023}
 }
+```
 
 ## Acknowledgements
 
