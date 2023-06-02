@@ -25,7 +25,7 @@ The scripts for running experiments are given by:
 
 ## Citation
 ```
-@inproceedings{kenji2023infodl,
+@inproceedings{icml2023kzxinfodl,
   title={How Does Information Bottleneck Help Deep Learning?},
   author={Kenji Kawaguchi and Zhun Deng and Xu Ji and Jiaoyang Huang},
   booktitle={International Conference on Machine Learning (ICML)},
