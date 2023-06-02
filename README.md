@@ -1,6 +1,6 @@
 # How Does Information Bottleneck Help Deep Learning?
 
-This repository contains code for `How Does Information Bottleneck Help Deep Learning?`.
+This repository contains code for the ICML 2023 paper: [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/abs/2305.18887)
 
 ## Requirements
 
@@ -19,7 +19,12 @@ The scripts for running experiments are given by:
 
 ## Citation
 
-TBC
+@inproceedings{kenji2023infodl,
+  title={How Does Information Bottleneck Help Deep Learning?},
+  author={Kenji Kawaguchi and Zhun Deng and Xu Ji and Jiaoyang Huang},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2023}
+}
 
 ## Acknowledgements
 
