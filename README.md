@@ -1,4 +1,4 @@
-# How Does Information Bottleneck Help Deep Learning?
+# ICML 2023: How Does Information Bottleneck Help Deep Learning?
 
 This repository contains code for the ICML 2023 paper: [How Does Information Bottleneck Help Deep Learning?](https://arxiv.org/abs/2305.18887)
 
